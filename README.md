@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Desenvolverdor Web
 ------------------
 
-Estudante de programação
+Dev Full Stack 
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [paulobrandaohbb@gmail.com](mailto:paulobrandaohbb@gmail.com)
